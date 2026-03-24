@@ -1,0 +1,1 @@
+EDA project analyzing climate data from a region of Portugal, with the main focus on delivering a comprehensive analytical report summarizing key patterns and insights, supported by code used for data processing and analysis.
